@@ -1,0 +1,11 @@
+
+
+       **** PAGE PRINTING *****
+
+
+       Many times you would like to place a button on your webpage to print the content of that 
+web page via an actual printer. JavaScript helps you implement this functionality using the 
+print function of the window object.
+The JavaScript print function window.print() prints the current webpage when executed. 
+You can call this function directly using the onclick event as shown in the following 
+example.
